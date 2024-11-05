@@ -1,0 +1,1 @@
+# criptocoins-wallet-generator
